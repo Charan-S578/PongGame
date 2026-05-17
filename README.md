@@ -56,7 +56,7 @@ Improve collision accuracy
 
 
 ## Screenshot Idea
-![Pong Screenshot]()
+![Pong Screenshot](https://github.com/Charan-S578/PongGame/blob/main/pong.game.png?raw=true)
 
 
 Author
